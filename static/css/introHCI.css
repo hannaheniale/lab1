@@ -14,11 +14,17 @@
 body {
      border: 1px dotted gray;
      padding: 20px;
+		 font-family:Arial;
+		 background-color: #f7e9ee;
 }
 
 .jumbotron {
 	position: relative;
 	background: none;
+}
+
+.project {
+	margin-left: 20px
 }
 
 .jumbotron:after {
